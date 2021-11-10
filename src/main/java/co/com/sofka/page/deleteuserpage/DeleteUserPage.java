@@ -47,7 +47,7 @@ public class DeleteUserPage extends CommonActionsOnPages {
         clickOn(userManagement);
 
         beforeDelete = getRows(tableResult);
-        System.out.println("============USUARIOS ANTES DE ELIMINAR============"+beforeDelete);
+        System.out.println("============#USUARIOS ANTES DE ELIMINAR============"+beforeDelete);
 
         clickOn(userNameOnTable1);
         clickOn(userNameOnTable2);
@@ -56,7 +56,7 @@ public class DeleteUserPage extends CommonActionsOnPages {
         clickOn(btnConfirmationDelete);
 
         afterDelete = getRows(tableResult);
-        System.out.println("===========USUARIOS DESPUES DE ELIMINAR=========="+afterDelete);
+        System.out.println("===========#USUARIOS DESPUES DE ELIMINAR=========="+afterDelete);
 
 
     }

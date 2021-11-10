@@ -13,6 +13,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../AutomationPractice/src/main/java/co/com/sofka/automationpractice/test/controllers/CreateAnAccountWebController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AutomationPractice/src/main/java/co/com/sofka/automationpractice/test/controllers/DressesPageWebController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AutomationPractice/src/main/java/co/com/sofka/automationpractice/test/page/DressesPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AutomationPractice/src/main/java/co/com/sofka/automationpractice/test/stepdefinition/CrearNuevaCuentaStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -24,6 +44,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/model/loginmodel/LoginModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/model/vacancymodel/VacancyModel.java">
           <value>
             <set />
           </value>
@@ -43,6 +68,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/page/recruitment/vacancy/VacancyPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/page/recruitment/vacancypage/VacancyPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/runners/deleteuser/DeleteUserRunner.java">
           <value>
             <set />
@@ -53,12 +88,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/runners/recruitmentvancacy/VacancyRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinitions/deleteuser/DeleteUserStepDefinitions.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinitions/login/LoginOrangeStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinitions/recruitment/vacancy/Vacancy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinitions/recruitmentvacancy/VacancyStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinitions/recruitmentvacancy/vacancy/Vacancy.java">
           <value>
             <set />
           </value>
@@ -83,7 +138,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/webui/orangehrm/vacancy.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../POM_CUCUMBER_ToolsQA/src/main/java/co/com/sofka/page/practiceform/PracticeForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../POM_CUCUMBER_ToolsQA/src/test/java/co/com/sofka/runners/practiceform/PracticeFormCompleteRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../POM_CUCUMBER_ToolsQA/src/test/java/co/com/sofka/runners/practiceform/PracticeFormRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../POM_CUCUMBER_ToolsQA/src/test/java/co/com/sofka/stepdefinitions/practiceform/cucumber/PracticeFormStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../POM_CUCUMBER_ToolsQA/src/test/java/co/com/sofka/stepdefinitions/practiceformcomplete/PracticeFormCompleteStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../POM_CUCUMBER_ToolsQA/src/test/resources/features/webui/practiceform/practiceform.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../POM_CUCUMBER_ToolsQA/src/test/resources/features/webui/practiceform/practiceformcomplete.feature">
           <value>
             <set />
           </value>
